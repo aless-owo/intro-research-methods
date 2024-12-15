@@ -10,7 +10,7 @@ How does the use of adjectives compare between Mark Twain and Charles Dickens in
 My hypothesis is that Dickens uses more adjectives per 1,000 words compared to Twain in character descriptions, while Twain’s descriptions of characters are generally more positive than Dickens’.
 
 ## Method
-I will be using the Project Gutenberg dataset, in order to find books written b y Twain and Dickens. I will then analyze these books by counting the adjectives, and comparing the amount use between authors per 1000 words. I will then also be analyzing the sentiment of these adjectives using [a hugging face model interface)(https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) to see what author describes characters more positively.
+I will be using the Project Gutenberg dataset, in order to find books written b y Twain and Dickens. I will then analyze these books by counting the adjectives, and comparing the amount use between authors per 1000 words. I will then also be analyzing the sentiment of these adjectives using [a hugging face model interface](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) to see what author describes characters more positively.
 
 ## References
 Benamara, Farah, et al. "Sentiment analysis: Adjectives and adverbs are better than adjectives alone." ICWSM 7 (2007): 203-206. 
