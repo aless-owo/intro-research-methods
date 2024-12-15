@@ -13,5 +13,6 @@ My hypothesis is that Dickens uses more adjectives per 1,000 words compared to T
 I will be using the Project Gutenberg dataset, in order to find books written b y Twain and Dickens. I will then analyze these books by counting the adjectives, and comparing the amount use between authors per 1000 words. I will then also be analyzing the sentiment of these adjectives using [a hugging face model interface)(https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) to see what author describes characters more positively.
 
 ## References
-Benamara, Farah, et al. "Sentiment analysis: Adjectives and adverbs are better than adjectives alone." ICWSM 7 (2007): 203-206.
+Benamara, Farah, et al. "Sentiment analysis: Adjectives and adverbs are better than adjectives alone." ICWSM 7 (2007): 203-206. 
+
 Macková, Vanda. "Charles Dickens and Mark Twain, the English and American Perspective on Child Heroes Portrayal." (2015).
